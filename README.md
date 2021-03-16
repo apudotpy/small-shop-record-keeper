@@ -1,1 +1,1 @@
-# small-shop-record-keeper
+# record-keeper
